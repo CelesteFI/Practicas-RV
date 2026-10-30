@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Previo/Previo1 Simple.unity
-    guid: cca6b79ecd8858d41851ecc110987933
+    path: Assets/Practica 1/Practica2_Escenario.unity
+    guid: 33a5a56959835cb4b987d1f1556a4ba6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e72e8b53955a8ae4e90ed59d07423b6b, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
