@@ -65,6 +65,7 @@
   <Project Path="Meta.XR.Editor.Reflection.csproj" />
   <Project Path="Unity.XR.Hands.Analytics.Editor.csproj" />
   <Project Path="Meta.XR.BuildingBlocks.DepthAPI.Editor.csproj" />
+  <Project Path="Unity.PlasticSCM.Editor.Assistant.csproj" />
   <Project Path="Meta.XR.ImmersiveDebugger.Editor.csproj" />
   <Project Path="Unity.XR.CoreUtils.Editor.csproj" />
   <Project Path="Unity.XR.OpenXR.Editor.csproj" />
@@ -112,6 +113,7 @@
   <Project Path="Unity.CollabProxy.Editor.csproj" />
   <Project Path="Oculus.Interaction.Samples.Editor.csproj" />
   <Project Path="Meta.XR.RuntimeOptimizer.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
   <Project Path="Meta.XR.Editor.Callbacks.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.RuntimeDebugger.csproj" />
   <Project Path="UnityEngine.SpatialTracking.csproj" />
@@ -135,5 +137,4 @@
   <Project Path="UnityEditor.SpatialTracking.csproj" />
   <Project Path="Unity.Collections.Editor.csproj" />
   <Project Path="Unity.XR.OpenXR.Features.OculusQuestSupport.csproj" />
-  <Project Path="Assembly-CSharp.csproj" />
 </Solution>
