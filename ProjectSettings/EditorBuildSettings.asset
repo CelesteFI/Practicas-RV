@@ -6,11 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Practica 1/Practica2_Escenario.unity
-    guid: 33a5a56959835cb4b987d1f1556a4ba6
+    path: Assets/Practica 3/P3.unity
+    guid: c1cd694d6828c2d43b244fe932228fb4
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e72e8b53955a8ae4e90ed59d07423b6b, type: 2}
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 0f00901dd8b83f84f942978bb8290c55, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99ca4dfacfd3bf640b26eeda17d028e3, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3d7682dde48fbc6419f7017ae563c297, type: 2}
   m_UseUCBPForAssetBundles: 0

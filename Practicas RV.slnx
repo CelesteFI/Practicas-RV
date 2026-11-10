@@ -37,6 +37,7 @@
   <Project Path="Oculus.Interaction.Editor.csproj" />
   <Project Path="Oculus.Interaction.OVR.csproj" />
   <Project Path="Unity.VisualScripting.State.Editor.csproj" />
+  <Project Path="Unity.AI.Navigation.Editor.ConversionSystem.csproj" />
   <Project Path="Unity.TestTools.CodeCoverage.Editor.csproj" />
   <Project Path="Unity.Burst.CodeGen.csproj" />
   <Project Path="Meta.XR.BuildingBlocks.AIBlocks.csproj" />
@@ -56,6 +57,7 @@
   <Project Path="Unity.VisualScripting.State.csproj" />
   <Project Path="Meta.XR.Editor.TelemetryUI.csproj" />
   <Project Path="Meta.XR.MultiplayerBlocks.Fusion.Editor.csproj" />
+  <Project Path="Unity.AI.Navigation.Updater.csproj" />
   <Project Path="Meta.XR.Editor.BuildingBlocks.AIBlocks.csproj" />
   <Project Path="meta.xr.json.csproj" />
   <Project Path="Meta.XR.Editor.ToolingSupport.csproj" />
@@ -68,6 +70,7 @@
   <Project Path="Unity.PlasticSCM.Editor.Assistant.csproj" />
   <Project Path="Meta.XR.ImmersiveDebugger.Editor.csproj" />
   <Project Path="Unity.XR.CoreUtils.Editor.csproj" />
+  <Project Path="Unity.AI.Navigation.Editor.csproj" />
   <Project Path="Unity.XR.OpenXR.Editor.csproj" />
   <Project Path="meta.xr.ai.agentbridge.csproj" />
   <Project Path="Meta.XR.FovSimulator.csproj" />
@@ -80,6 +83,7 @@
   <Project Path="Meta.XR.MultiplayerBlocks.Shared.Editor.csproj" />
   <Project Path="Oculus.Interaction.Editor.UnityXR.csproj" />
   <Project Path="Meta.XR.Editor.RemoteContent.csproj" />
+  <Project Path="Unity.AI.Navigation.csproj" />
   <Project Path="Meta.XR.Editor.Guide.Nux.csproj" />
   <Project Path="Unity.Collections.CodeGen.csproj" />
   <Project Path="Meta.XR.MetaWand.Editor.csproj" />
